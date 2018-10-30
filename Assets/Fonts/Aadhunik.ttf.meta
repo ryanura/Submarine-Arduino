@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 86141a8fd4fe14c4c900fcfc8d809a76
+timeCreated: 1510487559
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Aadhunik
+  fontNames:
+  - Aadhunik
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
